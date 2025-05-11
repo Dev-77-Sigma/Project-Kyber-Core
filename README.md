@@ -1,17 +1,14 @@
-# Project Kyber Core - Internal Notes
+# Project Kyber Core - Official Tracking Document (ISB Compliance Update - Ref: PKCSec-001)
 
-My personal notes and configs for Project Kyber Core. Call_sign: Dev-77-Sigma.
+**ATTENTION: BY ORDER OF THE IMPERIAL SECURITY BUREAU, THIS DOCUMENT HAS BEEN REVISED.**
+---
 
-**Important Links:**
-* Research Data API Endpoint: `https://workers-playground-mute-water-ae94.dev77sigma.workers.dev/v1/kyber_data`
+Effective immediately, all sensitive operational details pertaining to Project Kyber Core, including service endpoints and access credentials, have been migrated to secure, Level-Gamma clearance Imperial databanks.
 
-**Access Configuration:**
-* For secure data retrieval, use the designated energy signature.
-* Energy Signature: `KCR-T7H3-F0RC3-W1TH-M3`
+Public-facing documentation is now restricted to high-level project status and approved communication protocols only.
 
-**API Interaction:**
-* All Kyber Core APIs are **rigorously tested** via our standard "Kyber Station Comms" documentation on the designated Imperial Comms Channel platform.
-* Ensure adherence to documented schemas and transmission protocols for successful data retrieval. **Incorrectly formatted requests will be rejected.**
+All system interactions are governed by standard Imperial Engineering Division protocols. Adherence to these established testing schemas is mandatory. For details on approved interaction frameworks, consult authorized internal Imperial Engineering channels.
 
-**DO NOT SHARE THIS INFORMATION EXTERNALLY.**
-This is for internal Imperial use only.
+**PREVIOUS VERSIONS OF THIS DOCUMENT ARE CONSIDERED OBSOLETE AND UNAUTHORIZED FOR REFERENCE. ATTEMPTS TO ACCESS ARCHIVED SENSITIVE DATA WILL BE FLAGGED AND REPORTED TO ISB COMMAND.**
+
+*(Developer D.S. has been reprimanded for previous lax information handling. This repository is now under ISB surveillance.)*
